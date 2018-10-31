@@ -19,7 +19,7 @@ public class Bicycle {
     // four methods
     public void setCadence(int newValue) {
         cadence = newValue;
-	newValue++;
+		newValue++;
     }
         
     public void setGear(int newValue) {
